@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-//Okay, this is my first shit in flutter
+//Okay, this is my first app in flutter
 //the main function is the starting point in our app
 
 void main() {
